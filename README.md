@@ -3,9 +3,6 @@
 
 Tasks Management System
 
-
-##  Introduction
-This project has been develped using Java for the Back End and Angular for the Front End. The Backend has an number of Endpoints which are used to process requests coming from the user at the front end and save data to the database depending on the user request. User inputs are verified and any data not formatted according the accepted data format of the application is rejected and user has to enter the correct data. The Front End part has been developed using Angular provide user with a friendly User Interface that is easy to use and intuitive.
 ##  Introduction
 This project has been develped using Java for the Back End and Angular for the Front End. The Backend has an number of Endpoints which are used to process requests coming from the user at the front end and save data to the database depending on the user request. User inputs are verified and any data not formatted according the accepted data format of the application is rejected and user has to enter the correct data. The Front End part has been developed using Angular provide user with a friendly User Interface that is easy to use and intuitive.
 ## API Reference
